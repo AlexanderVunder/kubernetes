@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/cats-api" />
     <file type="web" url="file://$PROJECT_DIR$/jokes" />
     <file type="web" url="file://$PROJECT_DIR$/spring-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/test" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
 </project>
